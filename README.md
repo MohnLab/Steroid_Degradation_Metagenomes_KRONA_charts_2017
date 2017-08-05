@@ -1,3 +1,5 @@
 # Steroid_Degradation_Metagenomes_KRONA_charts_2017
 
+Interactive KRONA charts showing taxonomic assignments of predicted steroid degradation proteins recovered from 105 assembled metagenomes. Steroid degradation proteins have been identified using 23 hidden Markov models (HMMs) representing 10 key protein families of aerobic bacterial steroid degradation. Protein taxonomy was determined by a lowest common ancestor approach based on sequence alignment against the bacterial and archaeal non-redundant Ref-Seq protein databases (release 80 from 09 January 2017) using the Diamond (Buchfink et al., Fast and Sensitive Protein Alignment using DIAMOND, Nature Methods, 12, 59–60 (2015) doi:10.1038/nmeth.3176) and Megan (Huson et al., MEGAN Community Edition - Interactive Exploration and Analysis of Large-Scale Microbiome Sequencing Data, PLoS Comput Biol (2016) doi: 10.1371/journal.pcbi.1004957) software packages. 
+
 Pathway completeness, representing the number of steroid-degradation protein families assigned to individual taxonomic ranks, can be viewed in these charts by using the "Color by completeness" option
